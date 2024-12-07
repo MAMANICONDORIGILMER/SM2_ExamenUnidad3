@@ -25,4 +25,3 @@ jobs:
 
       - name: Run Linter
         run: npm run lint
-ECHO est� activado.
